@@ -1,0 +1,54 @@
+ body {
+
+   background-color: #ffc105;
+ }
+
+h1 {
+  font-family: fantasy;
+  font-size: 30px;
+  text-align: center;
+  color: pink;
+  position: relative;
+  top: 10px;
+  border: solid 10px blue;
+  border-radius: 15px;
+
+}
+
+p {
+  font-family: cursive;
+  font-size: 30px;
+  color: blue;
+  position: relative;
+  top: 40px;
+
+
+}
+.top {
+background-color:  green;
+height: 80px;
+}
+
+img {
+border: solid 3px black;
+  width: 170px;
+}
+
+#filtro:hover {
+  filter: grayscale(100%);
+  width: 200px;
+
+
+}
+
+
+
+.quadri {
+background-color: green;
+height: 250px;
+position: relative;
+top: 100px;
+border: solid 10px black;
+
+
+}
